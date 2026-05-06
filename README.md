@@ -1,18 +1,3 @@
-None selected
-
-Skip to content
-Using Gmail with screen readers
-1 of 390
-README
-Inbox
-
-David Ulloa <davidmontesinosulloa@gmail.com>
-Attachments
-11:55 AM (0 minutes ago)
-to me
-
- One attachment
-  •  Scanned by Gmail
 # Apartment Rental Management System
 
 ## Project Overview
