@@ -414,5 +414,3 @@ Apartment Rental Management System.png
 ## Conclusion
 
 The Apartment Rental Management System demonstrates a complete relational database design for managing apartment rental information. It includes schema creation, sample data, triggers, views, and example queries. The project shows how PostgreSQL can be used to organize property management data and support practical rental management workflows.
-README.md
-Displaying README.md.
