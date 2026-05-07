@@ -97,8 +97,9 @@ Apartment Rental Management System.png
 | `003_triggers.sql` | Creates trigger functions and triggers to enforce database business rules. |
 | `004_views.sql` | Creates views for common reports, such as active leases, late payments, and open maintenance requests. |
 | `005_queries_examples.sql` | Contains example SELECT, UPDATE, and DELETE queries to demonstrate database functionality. |
+| `Apartment Rental Management System Proposal.pdf` | Original project proposal submitted to Canvas for reference |
 | `Apartment Rental Management System.pdf` | Contains the dbdiagram.io ERD/database diagram as a PDF. |
-| `Apartment Rental Management System.png` | Contains the dbdiagram.io ERD/database diagram as an embedded README image. |
+| `Apartment_Rental_Management =_System.png` | Contains the dbdiagram.io ERD/database diagram as an embedded README image. |
 
 ---
 
