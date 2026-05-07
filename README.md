@@ -65,11 +65,11 @@ The database also includes a many-to-many relationship between leases and tenant
 
 The following ERD was created using dbdiagram.io. It shows the structure of the Apartment Rental Management System database, including the main tables, primary keys, foreign keys, and relationships between entities.
 
-![Apartment Rental Management System ERD](Apartment%20Rental%20Management%20System.png)
+![Apartment Rental Management System ERD](docs/Apartment_Rental_Management_System.png)
 
 If the image does not display, the ERD can also be viewed as a PDF:
 
-[View the Apartment Rental Management System ERD PDF](Apartment%20Rental%20Management%20System.pdf)
+[View the Apartment Rental Management System ERD PDF](docs/Apartment%20Rental%20Management%20System.pdf)
 
 ---
 
